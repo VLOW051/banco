@@ -8,7 +8,7 @@ public class Main {
         String nomeCadastro,emailCadastro, cpfCadastro, loginCadastro,senhaCadastro;
 
 
-        System.out.println("sahjuahiauhs");
+        System.out.println("sahju");
 
         Cliente user = new Cliente();
         Scanner read = new Scanner(System.in);
